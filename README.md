@@ -10,15 +10,14 @@
 ## Struktur Folder
 Kelompok_10_SD/
 
-Kelompok_10_SD.ipynb # Main notebook
+├── Kelompok_10_SD.ipynb # Main notebook
 
-README.md # Documentation
+├── README.md # Documentation
 
-requirements.txt # Dependencies
+├── requirements.txt # Dependencies
 
-spam.csv # Dataset (optional - bisa via gitignore)
+└── spam.csv # Dataset (optional - bisa via gitignore)
 
-text
 
 ## Anggota Kelompok
 - [Aditia Fahreza] (NIM: 12345678)
