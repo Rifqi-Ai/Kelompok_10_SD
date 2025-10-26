@@ -17,9 +17,9 @@ Kelompok_10_SD/
 text
 
 ## Anggota Kelompok
-- [Nama Anggota 1] (NIM: 12345678)
-- [Nama Anggota 2] (NIM: 12345679)
-- [Nama Anggota 3] (NIM: 12345680)
+- [Aditia Fahreza] (NIM: 12345678)
+- [Aldy Abdul Aziz] (NIM: 12345679)
+- [Muhamad Rifqi Salim] (NIM: 10222089)
 
 ## Deskripsi Project
 Proyek ini mengimplementasikan sistem deteksi spam SMS menggunakan Deep Learning. 
