@@ -10,13 +10,13 @@
 ## Struktur Folder
 Kelompok_10_SD/
 
-├── Kelompok_10_SD.ipynb # Main notebook
-
-├── README.md # Documentation
-
-├── requirements.txt # Dependencies
-
-└── spam.csv # Dataset (optional - bisa via gitignore)
+        ├── Kelompok_10_SD.ipynb # Main notebook
+        
+        ├── README.md # Documentation
+        
+        ├── requirements.txt # Dependencies
+        
+        └── spam.csv # Dataset (optional - bisa via gitignore)
 
 
 ## Anggota Kelompok
